@@ -115,7 +115,7 @@ By monitoring these KPIs, businesses can:
    
 ## Resources
 
-[Clothes Dataset](https://drive.google.com/drive/folders/1qU4SheYcHzH_wCxzEyKqI3TZlr5FN49t?usp=sharing)
+[UPI Transaction](https://drive.google.com/drive/folders/1qU4SheYcHzH_wCxzEyKqI3TZlr5FN49t?usp=sharing)
 
 
 ## Authors
